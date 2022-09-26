@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "16.4.1",
     "react-native": "0.56.0",
-    "react-native-code-push": "^5.4.2"
+    "react-native-code-push": "^5.7.0"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
